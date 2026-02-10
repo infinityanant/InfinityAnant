@@ -7,7 +7,7 @@ I enjoy building interactive projects and learning by working on real-world prob
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,c,cpp,git,github" />
 
 **Core Concepts:** Data Structures & Algorithms
 
