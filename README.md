@@ -23,14 +23,17 @@ Interactive web app that visualizes popular sorting algorithms step-by-step usin
 ## 🎯 Interests
 - Open-source contribution  
 - Frontend engineering  
-- Problem solving & software fundamentals  
+- Problem solving & software fundamentals
+- Competitive Programming 
 
 ---
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/infinityanant  
 - LinkedIn: https://www.linkedin.com/in/anant-sharma-614657334/
-- Mail-rsanan123@gmail.com
+- Mail: rsanan123@gmail.com
+- Codeforces: https://codeforces.com/profile/rsanant123
+- Codechef: https://www.codechef.com/users/anant2710
 ---
 
 ⭐ Always learning, building, and improving.
